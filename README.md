@@ -18,7 +18,7 @@ Clique [aqui](https://9uy0mv-5173.csb.app/) para ver como ficou o projeto no Cod
 - [ReactJS](https://legacy.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Redux](https://redux.js.org/)
-- [React Redux] (https://react-redux.js.org/)
+- [React Redux](https://react-redux.js.org/)
 - [CodeSandbox](https://codesandbox.io/)
 - [Vite](https://vitejs.dev/guide/)
 
